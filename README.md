@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boa vinda ao meu perfil💙
 
-<!--
-**vitor847/vitor847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Vitor Eduardo
 
-Here are some ideas to get you started:
+- Estou visintando no Alura
+- Estou desenvolvendo no idioma javaScript
+- Utilizo este lugar para minha organizaocao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entra em contato comigo📪
+
+0000112498527xsp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/FgH_yP41T4sAAAAC/messi-and-neymar.gif)
+
+![](https://media1.tenor.com/m/MCBkr6dWLkUAAAAd/corinthians-rodrigo-garro.gif)
